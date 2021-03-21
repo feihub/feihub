@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feihub
 - 👀 I’m interested in java and javascript
-- 📫 Email: xiaofeiwang2016@163.com
+- 📫 Email: wangxiaofei2004@163.com
 
 <!---
 feihub/feihub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
