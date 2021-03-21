@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @feihub
-- 👀 I’m interested in java and javascript
+- 👋 Hi, I’m Wang Xiao Fei.
+- 👀 I’m interested in Java and Javascript.
 - 📫 Email: wangxiaofei2004@163.com
 
 <!---
