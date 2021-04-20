@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wang Xiao Fei.
-- 👀 I’m interested in Java and Javascript.
+- 👀 I’m interested in Java and Html/CSS/Javascript.
 - 📫 Email: wangxiaofei2004@163.com
 
 <!---
